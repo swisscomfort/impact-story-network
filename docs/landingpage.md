@@ -6,7 +6,7 @@ Die spannendsten echten Geschichten – bei denen du den Ausgang verändern kann
 
 ## Subheadline
 
-Impact Story Network verwandelt Aufmerksamkeit in reale Wirkung. Lies echte, verifizierte Geschichten. Hilf mit Geld, Zeit, Wissen, Kontakten oder Sachleistungen.
+Impact Story Network verwandelt Aufmerksamkeit in reale Wirkung. Lies kleine echte Geschichten. Reagiere mit Kommentaren und kleinen zweckgebundenen Geldbeträgen.
 
 ## CTA
 
@@ -18,15 +18,15 @@ Keine klassische Spendenplattform.
 Keine anonymen Geldtöpfe.  
 Jede Geschichte hat konkrete Missionen.  
 Jede Mission hat einen sichtbaren Fortschritt.  
-Jede Hilfe zählt.
+Jede Reaktion zählt.
 
 ## Sektion: Wie es funktioniert
 
 1. Geschichte lesen
-2. Mission auswählen
-3. Beitrag leisten
-4. Update erhalten
-5. Wirkung sehen
+2. Kommentare und Reaktionen verfolgen
+3. Mini-Mission verstehen
+4. Mit kleinem zweckgebundenem Geldbetrag reagieren
+5. Update und Wendung sehen
 
 ## Claim
 
