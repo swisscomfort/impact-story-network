@@ -1,11 +1,15 @@
 # PLAYFUL_QUICK_STORY_FEED.md
 
 ## Ziel
-Der erste Feed soll Menschen nicht mit Leid überfordern, sondern mit kleinen, menschlichen Geschichten hineinziehen.
+Der erste Feed soll Menschen nicht mit Leid überfordern, sondern mit kleinen, echten Alltagssituationen hineinziehen.
 
 ## Grundidee
 Jede Story ist eine kleine offene Szene:
-Situation → Problem → Mission → Kommentare → Wendung → Ende.
+Situation → Problem → Mini-Mission → Kommentare → zweckgebundene Geldreaktion → Wendung → Ende.
+
+Die Community reagiert mit Kommentaren, Nachfragen, Zweifeln, Ironie und kleinen zweckgebundenen Geldbeträgen.
+
+Der Start ist keine private Hilfe-Koordination.
 
 ## Startkategorien
 - Heimkommen
@@ -13,29 +17,36 @@ Situation → Problem → Mission → Kommentare → Wendung → Ende.
 - Peinlicher Fehler
 - Letztes Geld falsch eingesetzt
 - Kleine Alltagspanne
-- Spontane Rettung
-- Mikro-Organisation
+- Spontane Wendung
+- Mini-Mission
 
 ## Beispiel
 "Ich stehe am Zürich HB, habe mein letztes Geld für einen Drink ausgegeben,
 der Flirt ist gescheitert, und jetzt fehlt mir das Ticket nach Luzern."
 
 ## Mission
-"Ticket Zürich HB → Luzern organisieren."
+"Ticket Zürich HB → Luzern zweckgebunden finanzieren."
 
 ## Kommentarrolle
 Kommentare sind nicht Beiwerk.
 Sie sind die zweite Ebene der Story.
 
 Erlaubt:
-- Spott
 - Ironie
 - Nachfragen
+- Zweifel
 - Tipps
-- Hilfeangebote
+- Hinweise
+- Reaktionen
 - Diskussion
+- frecher Ton ohne Entwürdigung
 
 Nicht erlaubt:
+- private Hilfeangebote
+- Mitfahrten
+- Abholungen
+- Sachhilfe oder Sachkoordination
+- private Treffen
 - Doxxing
 - Bedrohung
 - rassistische Angriffe
@@ -57,8 +68,10 @@ Jede Story braucht ein sichtbares Ende:
 - Account-Verifikation
 - Wiederholungslimit
 - keine IBAN im Kommentarbereich
-- direkte Sachlösung bevorzugt
+- keine privaten Kontaktdaten
+- keine direkten Hilfsangebote
+- zweckgebundene Geldlösung bevorzugt, z.B. Ticket, Rechnung, Gutschein oder klarer Mini-Betrag
 
 ## Produktziel
 Der Nutzer soll verstehen:
-"Hier kann eine kleine Geschichte live eine bessere Wendung bekommen."
+"Hier kann eine kleine echte Alltagssituation live eine bessere Wendung bekommen."
