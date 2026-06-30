@@ -6,6 +6,8 @@ Dieses Dokument definiert den gemeinsamen Ablauf aller Geschichten auf der Platt
 
 Die Plattform startet spielerisch mit kleinen Schnellstories, soll aber später auch tiefere, betreute Fälle aufnehmen können. Beide Arten dürfen sich für Nutzer nicht wie zwei getrennte Produkte anfühlen.
 
+Das Startmodell ist enger als die Langfristvision: kleine Alltagssituationen, Kommentare, zweckgebundene Geldreaktion und sichtbares Update.
+
 Der Grundsatz lautet:
 
 Jede Geschichte hat einen Anfang, eine Mission, eine Wendung und ein mögliches gutes Ende.
@@ -25,7 +27,7 @@ Jede Story folgt derselben sichtbaren Struktur:
 1. Situation
 2. Problem oder Wendepunkt
 3. konkrete Mission
-4. Hilfeangebot
+4. zweckgebundene Geldreaktion
 5. Kommentare und Reaktionen
 6. Update
 7. gutes Ende oder nächster Schritt
@@ -41,10 +43,11 @@ Problem:
 Sie hat ihr letztes Geld im Ausgang ausgegeben und kommt nicht mehr nach Hause.
 
 Mission:
-Ticket Zürich HB nach Luzern organisieren.
+Ticket Zürich HB nach Luzern zweckgebunden finanzieren.
 
 Kommentare:
-Spott, Tipps, Nachfragen, Hilfeangebote, Diskussion.
+Ironie, Nachfragen, Zweifel, Tipps, Hinweise, Reaktionen, Diskussion.
+Keine privaten Hilfeangebote.
 
 Update:
 Ticket wurde gekauft.
@@ -52,7 +55,9 @@ Ticket wurde gekauft.
 Ende:
 Person sitzt im Zug und ist auf dem Heimweg.
 
-Beispiel: tieferer Fall
+Beispiel: tieferer Fall (spätere Ausbaustufe, nicht Startmodell)
+
+Dieser Ablauf beschreibt eine spätere kontrollierte Ausbaustufe, nicht den Start.
 
 Situation:
 Eine Person ist gesundheitlich oder sozial stark belastet.
@@ -108,9 +113,11 @@ Interne Behandlung:
 * kurze Laufzeit
 * Account-Verifikation
 * Wiederholungslimit
-* direkte Sachlösung bevorzugt
+* zweckgebundene Geldlösung bevorzugt
 
-L2 — Alltagshilfe
+L2 — Alltagshilfe (kontrollierte Ausbaustufe)
+
+L2 ist zum Start nur zulässig, wenn sie sehr einfach, zweckgebunden und ohne private Koordination bleibt. Alles darüber ist kontrollierte Ausbaustufe.
 
 Etwas ernstere, aber noch gut überschaubare Hilfe.
 
@@ -130,7 +137,7 @@ Interne Behandlung:
 * klare Zweckbindung
 * begrenzte Öffentlichkeit
 
-L3 — betreute Story
+L3 — betreute Story (spätere Ausbaustufe, nicht Startmodell)
 
 Fall braucht Begleitung oder Koordination.
 
@@ -149,7 +156,7 @@ Interne Behandlung:
 * Story wird redaktionell geschützt
 * Kommentare werden stärker geführt
 
-L4 — geschützter Fall
+L4 — geschützter Fall (spätere Ausbaustufe, nicht Startmodell)
 
 Sensible Situation mit hohem Schutzbedarf.
 
@@ -170,7 +177,7 @@ Interne Behandlung:
 * keine unnötigen Details
 * keine Elendsdarstellung
 
-L5 — Übergabe oder Ausschluss
+L5 — Übergabe oder Ausschluss (spätere Schutzlogik, nicht Startmodell)
 
 Fälle, die nicht als normale Story veröffentlicht werden dürfen.
 
@@ -220,16 +227,25 @@ Jede Story braucht mindestens eine konkrete Mission.
 
 Eine Mission ist kein allgemeiner Wunsch, sondern ein handlungsfähiger nächster Schritt.
 
-Gute Missionen:
+Gute Startmissionen:
 
-* Ticket kaufen
+* Ticket zweckgebunden finanzieren
+* kleine Rechnung zweckgebunden begleichen
+* Gutschein oder klarer Mini-Betrag
+
+Anforderungen an jede Startmission:
+
+* klarer Zweck
+* sichtbares Update
+
+Nicht Teil des Startmodells:
+
 * Fahrt organisieren
-* Rechnung zweckgebunden begleichen
-* Gegenstand beschaffen
-* Termin ermöglichen
 * Kontakt herstellen
 * Formular ausfüllen helfen
 * Begleitung organisieren
+* Sachhilfe koordinieren
+* private Treffen
 
 Schlechte Missionen:
 
@@ -280,29 +296,32 @@ Bei Schnellstories dürfen Kommentare frecher, spielerischer und direkter sein.
 
 Bei tieferen Fällen müssen Kommentare stärker geschützt und geführt werden.
 
-Kommentare dürfen:
+Erlaubt zum Start:
 
-* helfen
-* nachfragen
-* Tipps geben
-* diskutieren
-* auf Widersprüche hinweisen
-* praktische Lösungen anbieten
+* Ironie
+* Nachfragen
+* Zweifel
+* Tipps
+* Hinweise
+* Reaktionen
+* Diskussion
+* frecher Ton ohne Entwürdigung
 
-Kommentare dürfen nicht:
+Nicht erlaubt:
 
+* private Hilfsangebote
 * private Daten verlangen
-* Menschen zerstören
-* Doxxing betreiben
+* Doxxing
+* Entwürdigung
+* öffentliche Betrugsjagden
 * Gewalt oder Selbstverletzung fördern
-* rassistisch oder entwürdigend sein
-* unbelegte öffentliche Betrugsjagden starten
+* rassistische Angriffe
 
 Verdacht auf Betrug gehört in einen vertraulichen Meldekanal, nicht in eine öffentliche Hetzspirale.
 
 Startstrategie
 
-Zum Start konzentriert sich die Plattform auf L1 und einfache L2-Stories.
+Zum Start konzentriert sich die Plattform auf L1-Schnellstories und nur sehr einfache zweckgebundene L2-Missionen ohne private Koordination.
 
 Der Start soll sein:
 
@@ -352,7 +371,7 @@ Wie viele Geschichten bekommen eine bessere Wendung?
 Sekundäre Metriken:
 
 * Anteil gelöster Missionen
-* Zeit bis zur ersten Hilfe
+* Zeit bis zur ersten zweckgebundenen Geldreaktion
 * Anzahl Good-End-Updates
 * Wiederkehrende Helfer
 * Kommentaraktivität pro Story
