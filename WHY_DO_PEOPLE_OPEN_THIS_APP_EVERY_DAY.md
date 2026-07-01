@@ -21,7 +21,7 @@ Wenn Impact Story Network diese Frage nicht überzeugend beantwortet, wird die A
 ## Was die bisherige Dokumentation (noch) nicht beantwortet
 
 Die existierenden Dokumente beschreiben gut:
-- Was die App *ist* (Storys + Missionen)
+- Was die App *ist* (Storys + Mini-Missionen)
 - Wie Vertrauen entsteht
 - Wie Reputation funktionieren soll
 - Welche Monetarisierung möglich ist
@@ -36,7 +36,7 @@ Sie beschreiben aber nicht ausreichend:
 
 | Plattform     | Täglicher Öffnungsgrund                          | Mechanismus                          | Übertragbar auf Impact Story Network? |
 |---------------|--------------------------------------------------|--------------------------------------|---------------------------------------|
-| TikTok        | "Was gibt's Neues / Lustiges / Überraschendes?" | Endloser frischer Content + FOMO    | Ja (neue Missionen + Live-Updates)   |
+| TikTok        | "Was gibt's Neues / Lustiges / Überraschendes?" | Endloser frischer Content + FOMO    | Ja (neue Mini-Missionen + Updates)   |
 | Reddit        | "Was bewegt die Community gerade?"              | Community + Novelty + Upvotes       | Teilweise                            |
 | Duolingo      | "Ich will meinen Streak nicht verlieren"        | Persönlicher Fortschritt + Gamification | Stark                                |
 | Humans of NY  | "Ich will die nächste Geschichte lesen"         | Narrative Spannung + Serien-Charakter | Teilweise                            |
@@ -44,84 +44,118 @@ Sie beschreiben aber nicht ausreichend:
 
 **Schlussfolgerung**: Reine "Hilfe" oder "gute Geschichten" erzeugen keine tägliche Gewohnheit. Es braucht **sichtbaren Fortschritt** (persönlich oder kollektiv) + **ständig frische, relevante Impulse**.
 
-## Mögliche tägliche Öffnungsgründe für Impact Story Network
+## Tägliche Öffnungsgründe L1: Schnellstories
 
-Hier sind konkrete, testbare Hypothesen (priorisiert):
+Zum Start öffnen Menschen die App nicht wegen schwerer Hilfe, sondern wegen Neugier, Updates, Kommentaren, kleinen Wendungen und möglichen guten Enden.
 
-### 1. "Heute ist etwas passiert" (stärkster Kandidat)
-- Push / In-App: "3 Missionen wurden heute abgeschlossen"
-- "In deiner Region wurden 7 neue Missionen gestartet"
+Der tägliche Kern ist: "Heute ist etwas passiert."
+
+L1-Trigger sind:
+- neue kleine Alltagssituation
+- neue Kommentare zu einer Story
+- sichtbares Update zu einer Story
+- Mini-Mission wurde abgeschlossen
+- gutes Ende wurde sichtbar
+- kleine zweckgebundene Geldreaktion hat eine Wendung ermöglicht
+- Community diskutiert, zweifelt, lacht oder klärt etwas, ohne jemanden bloßzustellen
+
+## Mögliche tägliche Öffnungsgründe für L1
+
+Hier sind konkrete, testbare Hypothesen (priorisiert und auf L1 begrenzt):
+
+### 1. "Heute ist etwas passiert" (stärkster Kandidat für L1)
+
+- Push / In-App: "Eine neue kleine Alltagssituation ist aufgetaucht"
 - "Die Geschichte, der du folgst, hat ein Update"
-- "Deine Hilfe bei Mission X hat heute Fortschritt gemacht"
+- "Kommentare zu einer Story haben sich weiterentwickelt"
+- "Eine kleine Mini-Mission wurde abgeschlossen"
+- "Eine Story hat ein gutes Ende gefunden"
+- "Deine kleine zweckgebundene Reaktion hat eine Wendung ermöglicht"
 
-**Psychologie**: Sichtbarer kollektiver + persönlicher Impact + Neugier.
+**Psychologie**: Sichtbarer kollektiver + persönlicher Fortschritt + Neugier auf eine kleine, echte Alltagssituation.
 
-### 2. "Es gibt dringende Missionen, die auf dich warten"
-- "Diese 4 Missionen brauchen heute jemanden mit deinen Fähigkeiten/Kontakten"
-- "2 Missionen laufen bald ab — jemand wie du könnte sie retten"
+### 2. "Die Community bewegt sich gerade"
 
-**Psychologie**: Agency + Dringlichkeit + persönliche Relevanz (nicht generisches "Hilf mit").
+- "In den letzten 24h wurden X kleine Alltagssituationen weitergebracht"
+- "Diese 3 Storys haben heute ein gutes Ende gefunden"
+- "Kommentare, faire Zweifel, Hinweise und Reaktionen sind aktiv"
+- "Eine kleine zweckgebundene Geldreaktion hat heute eine Wendung sichtbar gemacht"
 
-### 3. "Die Community bewegt sich gerade"
-- Live- oder Daily-Impact-Zähler: "In den letzten 24h wurden 218 Missionen gelöst"
-- "Die Community hat heute 47 neue Helfer gewonnen"
-- "Diese 3 Geschichten haben heute ein gutes Ende gefunden"
+**Psychologie**: Zugehörigkeit + Momentum durch leichte, spielerische Community-Dynamik (ähnlich wie bei offenen Community-Projekten).
 
-**Psychologie**: Zugehörigkeit + Momentum (ähnlich wie bei Wikipedia- oder Open-Source-Communities).
+Wichtig: **Nie Geld als primäre Metrik** sichtbar machen. Immer Wirkung + Agency. Keine Geld-Ranglisten, keine Statusspiele nach Geldhöhe.
 
-### 4. Persönliche Impact-Chronik + Streak-Elemente (vorsichtig dosieren)
-- "Du hast diese Woche schon 4 Missionen unterstützt — willst du den Streak halten?"
-- "Deine erste Mission, der du gefolgt bist, hat heute ein Langzeitupdate"
+## Nicht L1: spätere tägliche Öffnungsgründe L3+
 
-Wichtig: **Nie Geld als primäre Metrik** sichtbar machen. Immer Wirkung + Agency.
+Nicht Teil des Startmodells.
 
-### 5. Die "Live-Weltkarte ungelöster Probleme" (langfristig stärkste Vision)
-Statt klassischem Feed als primärem Einstieg:
+Erst prüfen, wenn L1-Storyflow, Trust, Safety und Geldreaktionen funktionieren.
 
-Eine Echtzeit-Visualisierung:
-- Karte / Netzwerk / Fluss von ungelösten und gerade gelösten Problemen in DACH (später Europa)
-- "Rechts oben: 47 offene Missionen im Bereich Wohnen"
-- "Gerade gelöst: Laptop für Studentin in Leipzig"
+Spätere mögliche Öffnungsgründe:
+- Matching nach Fähigkeiten
+- Kontaktvermittlung
+- Wissenshilfe
+- Zeit- oder Sachhilfe
+- Organisationen-getriebene Fälle
+- Langzeitupdates
+- Fallbegleitung
+- Live-Übersicht komplexer ungelöster Probleme
+- B2B/CSR Impact-Berichte
+- schwere Impact-Chronik
 
-Das verändert die Wahrnehmung fundamental:
-Nicht "Nachrichten konsumieren", sondern **"Der Live-Status gesellschaftlicher Problemlösung anschauen und mitgestalten"**.
+Diese gehören nicht in den Start. Sie können später als kontrollierte Ausbaustufe geprüft werden.
 
-Das ist näher an einem **Betriebssystem für gesellschaftliche Problemlösung** als an einer klassischen App.
+## Persönliche Fortschrittsanzeige (L1)
 
-## Empfohlene Design-Prinzipien für den täglichen Trigger
+Für L1 erlaubt:
+- erste hilfreiche Reaktion
+- erstes sichtbares Update verfolgt
+- erste abgeschlossene Mini-Mission
+- erstes gutes Ende gesehen
+- faire Kommentare
 
-1. **Fortschritt sichtbar machen** (persönlich + kollektiv)
-2. **Neugier erzeugen** durch unvollständige, aber vielversprechende Informationen
-3. **Agency signalisieren** ("Du kannst hier konkret etwas bewegen")
+Nur L3+:
+- Langzeitupdate
+- schwere Streaks
+- Missionen nach Fähigkeiten/Kontakten
+- Fallbegleitung
+- Sachhilfe/Zeit/Wissen/Kontakte
+
+## Empfohlene Design-Prinzipien für den täglichen Trigger (L1)
+
+1. **Fortschritt sichtbar machen** (persönlich + kollektiv) bei kleinen Alltagssituationen
+2. **Neugier erzeugen** durch unvollständige, aber vielversprechende Informationen zu einer Story
+3. **Agency signalisieren** ("Du kannst hier konkret etwas bewegen" – durch Kommentar oder kleine zweckgebundene Reaktion)
 4. **Sozialer Kontext ohne Geld-Ranking** (Community-Impact, nicht "Top-Spender")
 5. **Leichte Einstiegshürde** — maximal 1–2 Klicks bis zur ersten sinnvollen Handlung
+6. Einhaltung der L1-Grenzen: keine privaten Hilfsangebote, keine Sachhilfe, keine Fähigkeiten-/Kontakt-Matching, keine komplexe Fallbetreuung
 
-## Auswirkungen auf andere Bereiche (wenn diese Frage geklärt ist)
+## Auswirkungen auf andere Bereiche (L1-Fokus)
 
-| Bereich              | Beeinflussung durch "Why open daily?"                          |
-|----------------------|----------------------------------------------------------------|
-| Feed-Design          | Nicht nur chronologisch oder algorithmisch — sondern "was ist heute relevant/neu/drängend?" |
-| Notification System  | Wird zum zentralen Retention-Instrument (nicht Spam)           |
-| Algorithmus          | Optimiert auf Mission-Completion + tägliche Rückkehr, nicht auf Watchtime |
-| Storytelling         | Geschichten brauchen serielle Elemente + laufende Updates      |
-| Gamification         | Nur um echte Wirkung sichtbar zu machen (keine leeren Badges)  |
-| Onboarding           | Zeigt sofort den täglichen Wert (nicht nur "Willkommen")       |
-| Monetarisierung      | B2B/CSR kann "tägliche Impact-Berichte" anbieten               |
+| Bereich              | Beeinflussung durch "Why open daily?" (L1)                          |
+|----------------------|---------------------------------------------------------------------|
+| Feed-Design          | Nicht nur chronologisch oder algorithmisch — sondern "was ist heute neu / hat ein Update / hat ein gutes Ende?" |
+| Notification System  | Wird zum zentralen Retention-Instrument (nicht Spam) – Fokus auf kleine Story-Updates |
+| Algorithmus          | Optimiert auf Mini-Mission-Completion + tägliche Rückkehr durch sichtbare kleine Wendungen, nicht auf Watchtime |
+| Storytelling         | Geschichten brauchen serielle Elemente + laufende Updates bei kleinen Alltagssituationen |
+| Gamification         | Nur um echte kleine Wirkung sichtbar zu machen (keine leeren Badges) |
+| Onboarding           | Zeigt sofort den täglichen Wert einer kleinen Story (nicht nur "Willkommen") |
+| Monetarisierung      | Im Start: kleine zweckgebundene Geldreaktionen + transparenter Plattformanteil. B2B/CSR und Impact-Berichte sind spätere Ausbaustufe (nicht L1-Tagesgrund) |
 
 ## Nächste Schritte (empfohlen)
 
-1. Dieses Dokument mit dem Team / Stakeholdern diskutieren und die 2–3 stärksten täglichen Trigger-Hypothesen auswählen.
+1. Dieses Dokument mit dem Team / Stakeholdern diskutieren und die 2–3 stärksten täglichen L1-Trigger-Hypothesen auswählen.
 2. Diese Hypothesen in die **30-Tage-Validierung** einbauen (z.B. in Interviews fragen: "Was würde dich morgen wieder hierher bringen?").
 3. Daraus abgeleitet:
-   - Notification-Strategie
-   - Feed-Refresh-Mechanik
-   - Erste Version der "Live-Impact-Übersicht"
-4. Später: Ein separates Dokument `FEED_PHILOSOPHY.md` und `NOTIFICATION_SYSTEM.md` schreiben.
+   - Notification-Strategie (L1-sicher)
+   - Feed-Refresh-Mechanik für kleine Alltagssituationen
+   - Erste Version der "Live-Übersicht kleiner Wendungen"
+4. Später: Ein separates Dokument für L3+-Trigger und erweiterte Mechaniken schreiben.
 
 ## Offene Fragen (Stand Juni 2026)
 
-- Welcher der oben genannten Trigger fühlt sich für die Zielgruppe (DACH, erstes Segment: engagierte, aber nicht nur "typische Spender") am authentischsten an?
-- Wie stark darf/wird "Dringlichkeit" eingesetzt, ohne in manipulative Mitleids-Taktiken abzurutschen?
+- Welcher der oben genannten L1-Trigger fühlt sich für die Zielgruppe (DACH, erstes Segment: engagierte, aber nicht nur "typische Spender") am authentischsten an?
+- Wie stark darf/wird "Dringlichkeit" bei kleinen Alltagssituationen eingesetzt, ohne in manipulative Mitleids-Taktiken abzurutschen?
 - Wie messen wir, ob der tägliche Öffnungsgrund wirklich funktioniert (nicht nur Retention-Rate, sondern qualitative Rückmeldung)?
 
 ---
@@ -132,4 +166,10 @@ Das ist näher an einem **Betriebssystem für gesellschaftliche Problemlösung**
 
 ---
 
-*Hinweis: Dieses Dokument wurde als direkte Antwort auf die zentrale Lücke in der bisherigen Konzeption erstellt. Es ersetzt keine bestehenden Dokumente, sondern ergänzt sie an der wichtigsten Stelle.*
+*Hinweis: Dieses Dokument wurde als direkte Antwort auf die zentrale Lücke in der bisherigen Konzeption erstellt. Es ersetzt keine bestehenden Dokumente, sondern ergänzt sie an der wichtigsten Stelle. L1- und L3+-Trigger sind bewusst getrennt.*
+
+## Grundsatz
+
+Nie Geld als primäre Metrik sichtbar machen. Immer Wirkung + Agency.
+
+Für L1 bedeutet Wirkung: Eine kleine Alltagssituation wird durch Kommentare, kleine zweckgebundene Geldreaktionen und sichtbare Updates nachvollziehbar weitergebracht.
