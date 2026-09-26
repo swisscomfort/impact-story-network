@@ -1,0 +1,8 @@
+{
+  "name": "Impact Story Network",
+  "description": "Die spannendsten echten Alltagsgeschichten – bei denen du den Ausgang verändern kannst. Zweckgebundene Mini-Missionen, Community-Kommentare und echte Wendungen.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
